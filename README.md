@@ -11,8 +11,4 @@ As you embark on your exploration of Analyze-Turkey, our dedicated web interface
 
 In a world where data is omnipresent, Analyze-Turkey stands as a beacon of empowerment. We invite you to dive into the depths of data science, emboldened by the knowledge that you have complete control over your data. Join us on this journey of exploration, understanding, and discovery as we unravel the tapestry of Turkey's data landscape, one dataframe at a time.
 
-Contributors:
-Kutluhan Aygüzel - kutluhaan
-Asude Emecan - 
-İsmail Aydın Karayılan - 
-Ozan Parlayan - 
+Contributors: Kutluhan Aygüzel - kutluhaan, Asude Emecan - , İsmail Aydın Karayılan - , Ozan Parlayan - 
