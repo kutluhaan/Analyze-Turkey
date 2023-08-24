@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Set a title image -->
+    <link rel="icon" type="image/png" href="data.jpg">
+
+    <!-- Navigation Bar Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 | The Facts. All rights reserved.</p>
+    </footer>
+
+    <style>
+
+    /* Set the background image for the body */
+    body {
+    background-color: #191825;
+    /*background-image: url("background.jpg");*/
+    background-size: cover; /* Ensure the image covers the entire body */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    font-family: Arial, Helvetica, sans-serif; /* Get a font family */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    }
+    /* Navigation Bar Styles */
+    .navbar {
+    width: 100%;
+    background-color: #865DFF;
+    color: white;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-evenly; /* Space the items evenly */
+    align-items: center; /* Center the items vertically */
+    z-index: 1;
+    }
+
+    .navbar a {
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    .navbar a:hover {
+    background-color: #F3AA60;
+    }
+
+    .active {
+    background-color: #E384FF;
+    }
+    /* Footer Style */
+    footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    width: 100%;
+    background-color: #865DFF;
+    color: white;
+    text-align: center;
+    z-index:1;
+    }
+
+    footer p {
+    margin: 0;
+    }
+
+    .iframe-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw; /* Set the width to 100% of the viewport width */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    }
+
+    /* Set the width and height of the iframe */
+    .iframe-container iframe {
+    width: 100vw; /* Set the width to 100% of the viewport width */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    border: none; /* Remove any borders */
+    outline: none; /* Remove any outlines */
+    }
+
+    </style>
+</body>
+</html>
