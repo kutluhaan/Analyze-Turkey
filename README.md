@@ -10,3 +10,9 @@ A unique facet of Analyze-Turkey is its embodiment of a localized approach. By o
 As you embark on your exploration of Analyze-Turkey, our dedicated web interface serves as your compass. Here, you will not only find a comprehensive repository of information about the project itself but also insights into the talented individuals who have contributed their expertise to this endeavor. Furthermore, the web interface provides you with an interactive window into the dataframes housed within your local database. Armed with an array of visualization tools and filtering options, you can navigate the data at your own pace, uncovering nuanced details and broad trends alike.
 
 In a world where data is omnipresent, Analyze-Turkey stands as a beacon of empowerment. We invite you to dive into the depths of data science, emboldened by the knowledge that you have complete control over your data. Join us on this journey of exploration, understanding, and discovery as we unravel the tapestry of Turkey's data landscape, one dataframe at a time.
+
+Contributors:
+Kutluhan Aygüzel - kutluhaan
+Asude Emecan - 
+İsmail Aydın Karayılan - 
+Ozan Parlayan - 
