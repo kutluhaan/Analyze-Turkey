@@ -1,5 +1,5 @@
 🇹🇷 Analyze-Turkey
-📝 What is This All About?
+📝 What's This All About?
 Welcome to the Analyze-Turkey project! This is a really cool data science project that lets you explore and understand Turkey's socio-economic data. We've used data from the Turkish Statistical Institute (TÜİK) to create a bunch of Jupyter notebooks and a web interface. The best part? Everything runs right on your computer, so your data is always private and safe!
 
 🚀 What Can It Do?
